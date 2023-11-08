@@ -1,0 +1,6 @@
+.idea/
+target/
+sonar-scan.sh
+.scannerwork/
+.DS_Store
+/local-files/

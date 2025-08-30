@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="uv"
+                  name="Upgrade Versions"
+                  start-page="upgrade-versions.md" is-library="true">
+
+    <toc-element id="upgrade-versions-toc" topic="upgrade-versions.md">
+        <toc-element topic="upg-15-to16.md"/>
+        <toc-element topic="upg-16-to-17.md"/>
+        <toc-element topic="upg-17-to-18.md"/>
+        <toc-element topic="upg-18-to-19.md"/>
+        <toc-element topic="upg-19-to-20.md"/>
+    </toc-element>
+</instance-profile>

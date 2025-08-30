@@ -5,5 +5,15 @@
 <instance-profile id="r3ds9" name="R3DS9"
                   start-page="r3ds9.md">
 
-    <toc-element topic="r3ds9.md"/>
+    <toc-element topic="r3ds9.md" />
+    <toc-element topic="ng-new-app.md">
+        <toc-element topic="ng-new.md"/>
+    </toc-element>
+    <toc-element topic="gong-schematics.md">
+        <toc-element topic="gong-gen.md">
+            <toc-element topic="gong-gen-svc.md"/>
+            <toc-element topic="gong-gen-types.md"/>
+        </toc-element>
+    </toc-element>
+    <include from="uv" element-id="upgrade-versions-toc" />
 </instance-profile>

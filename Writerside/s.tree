@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="s"
+                  name="Schematics"
+                  start-page="schematics.md" is-library="true">
+
+    <toc-element topic="schematics.md">
+        <toc-element topic="ng-schematics-setup.md"/>
+        <toc-element topic="ng-schematics-usage.md"/>
+        <toc-element topic="ng-schematics-sandbox.md"/>
+    </toc-element>
+</instance-profile>

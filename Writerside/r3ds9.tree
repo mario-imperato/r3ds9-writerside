@@ -8,6 +8,7 @@
     <toc-element topic="r3ds9.md" />
     <toc-element topic="ng-new-app.md">
         <toc-element topic="ng-new.md"/>
+        <toc-element topic="ng-multi-tenancy.md"/>
     </toc-element>
     <toc-element topic="gong-schematics.md">
         <toc-element topic="gong-gen.md">

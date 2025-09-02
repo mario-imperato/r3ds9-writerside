@@ -18,7 +18,7 @@ L’url per l’accesso alla applicazione &egrave; del seguente tipo:
 http://localhost:8080/<app-type>/<domain>/<namespace>/<language>/<app-id>/...
 ```
 
-* app-type: distingue l’ambito dell’applicazione (valori: ui oppure ui-console).
+* app-type: distingue l’ambito dell’applicazione (valori: ui oppure ui-admin).
 * domain: i namespace sono organizzati all’interno di un namespace superior chiamato dominio che ha scopi di aggregazione di namespace appartenenti ad uno stesso Gruppo amministrativo.
 * namespace:  identificativo del namespace utilizzato come element logico di configurazione e profilazione
 * language: linguaggio richiesto (al momento non implementato ma previsto)
